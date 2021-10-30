@@ -1,0 +1,4 @@
+export const CONSTANTS = {
+  GRAVITY_ACCELERATION: 9.81,
+  RESTITUTION: 0.9,
+};
